@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|c:\\users\\mg095\\onedrive\\escritorio\\inventario_rodrigo_segura\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|solutionrelative:frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|c:\\users\\mg095\\onedrive\\escritorio\\inventario_rodrigo_segura\\frmventa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|solutionrelative:frmventa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|c:\\users\\mg095\\onedrive\\escritorio\\inventario_rodrigo_segura\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|solutionrelative:frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|c:\\users\\mg095\\onedrive\\escritorio\\inventario_rodrigo_segura\\gestorventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|solutionrelative:gestorventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|c:\\users\\mg095\\onedrive\\escritorio\\inventario_rodrigo_segura\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|solutionrelative:frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|solutionrelative:frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|c:\\users\\mg095\\onedrive\\escritorio\\inventario_rodrigo_segura\\gestorventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|solutionrelative:gestorventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|solutionrelative:producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|c:\\users\\mg095\\onedrive\\escritorio\\inventario_rodrigo_segura\\frmproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|solutionrelative:frmproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\persistencehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|solutionrelative:persistencehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|c:\\users\\mg095\\onedrive\\escritorio\\inventario_rodrigo_segura\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|c:\\users\\mg095\\onedrive\\escritorio\\inventario_rodrigo_segura\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|solutionrelative:venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A815A22-5F9A-4770-87CA-7F94217B0439}|Inventario_Rodrigo_Segura.csproj|solutionrelative:databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GestorVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_segura\\GestorVentas.cs",
+              "RelativeDocumentMoniker": "GestorVentas.cs",
+              "ToolTip": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_segura\\GestorVentas.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "GestorVentas.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T00:31:04.009Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmProductos.cs",
+              "DocumentMoniker": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\FrmProductos.cs",
+              "RelativeDocumentMoniker": "FrmProductos.cs",
+              "ToolTip": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\FrmProductos.cs*",
+              "RelativeToolTip": "FrmProductos.cs*",
+              "ViewState": "AgIAALUAAAAAAAAAAAAYwLoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T23:45:24.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\FrmVenta.cs",
+              "RelativeDocumentMoniker": "FrmVenta.cs",
+              "ToolTip": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\FrmVenta.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "FrmVenta.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T23:52:06.528Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmVenta.cs",
+              "DocumentMoniker": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\FrmVenta.cs",
+              "RelativeDocumentMoniker": "FrmVenta.cs",
+              "ToolTip": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\FrmVenta.cs*",
+              "RelativeToolTip": "FrmVenta.cs*",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T23:54:42.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmVenta.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_segura\\FrmVenta.Designer.cs",
+              "RelativeDocumentMoniker": "FrmVenta.Designer.cs",
+              "ToolTip": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_segura\\FrmVenta.Designer.cs*",
+              "RelativeToolTip": "FrmVenta.Designer.cs*",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T23:52:11.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\FrmProductos.cs",
+              "RelativeDocumentMoniker": "FrmProductos.cs",
+              "ToolTip": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\FrmProductos.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "FrmProductos.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:54:52.252Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GestorVentas.cs",
+              "DocumentMoniker": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_segura\\GestorVentas.cs",
+              "RelativeDocumentMoniker": "GestorVentas.cs",
+              "ToolTip": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_segura\\GestorVentas.cs*",
+              "RelativeToolTip": "GestorVentas.cs*",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAcwD8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T23:47:38.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\Producto.cs",
+              "RelativeDocumentMoniker": "Producto.cs",
+              "ToolTip": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\Producto.cs",
+              "RelativeToolTip": "Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:59:12.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmProductos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_segura\\FrmProductos.Designer.cs",
+              "RelativeDocumentMoniker": "FrmProductos.Designer.cs",
+              "ToolTip": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_segura\\FrmProductos.Designer.cs*",
+              "RelativeToolTip": "FrmProductos.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T00:12:30.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersistenceHelper.cs",
+              "DocumentMoniker": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\PersistenceHelper.cs",
+              "RelativeDocumentMoniker": "PersistenceHelper.cs",
+              "ToolTip": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\PersistenceHelper.cs",
+              "RelativeToolTip": "PersistenceHelper.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:57:01.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-03T00:14:58.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:46:37.476Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\Venta.cs",
+              "RelativeDocumentMoniker": "Venta.cs",
+              "ToolTip": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\Venta.cs",
+              "RelativeToolTip": "Venta.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:59:55.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\DatabaseHelper.cs",
+              "RelativeToolTip": "DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:57:40.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:52:42.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T23:16:58.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\mg095\\OneDrive\\Escritorio\\Inventario_Rodrigo_Segura\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T22:53:39.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

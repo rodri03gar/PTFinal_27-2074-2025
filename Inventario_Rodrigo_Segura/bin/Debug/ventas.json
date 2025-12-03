@@ -1,0 +1,44 @@
+﻿[
+  {
+    "Id": 1,
+    "Detalles": [
+      {
+        "ProductoId": 1,
+        "NombreProducto": "Medallas",
+        "Cantidad": 50,
+        "PrecioUnitario": 5.00,
+        "Subtotal": 250.00
+      }
+    ],
+    "TotalVenta": 250.00,
+    "Fecha": "2025-12-02T18:24:07.4316819-06:00"
+  },
+  {
+    "Id": 2,
+    "Detalles": [
+      {
+        "ProductoId": 1,
+        "NombreProducto": "Medallas",
+        "Cantidad": 10,
+        "PrecioUnitario": 5.00,
+        "Subtotal": 50.00
+      }
+    ],
+    "TotalVenta": 50.00,
+    "Fecha": "2025-12-02T18:35:24.3780764-06:00"
+  },
+  {
+    "Id": 3,
+    "Detalles": [
+      {
+        "ProductoId": 2,
+        "NombreProducto": "Trofeos",
+        "Cantidad": 20,
+        "PrecioUnitario": 80.00,
+        "Subtotal": 1600.00
+      }
+    ],
+    "TotalVenta": 1600.00,
+    "Fecha": "2025-12-02T18:35:29.3822145-06:00"
+  }
+]
